@@ -1,0 +1,19 @@
+# ↘︎ Fichiers système / IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
+
+# ↘︎ Dépendances
+node_modules/
+vendor/
+
+# ↘︎ Fichiers compilés
+dist/
+build/
+*.class
+*.o
+
+# ↘︎ Artefacts d’exécution
+*.log
+*.cache
